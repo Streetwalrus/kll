@@ -1,0 +1,25 @@
+Name = numpad;
+Version = 1337;
+Author = "Streetwalrus";
+KLL = 0.3c;
+
+# Modified Date
+Date = 2015-10-06;
+
+U"M" : U"P0";
+U"J" : U"P1";
+U"K" : U"P2";
+U"L" : U"P3";
+U"U" : U"P4";
+U"I" : U"P5";
+U"O" : U"P6";
+U"7" : U"P7";
+U"8" : U"P8";
+U"9" : U"P9";
+U"Enter" : U"PEnter";
+U"Equal" : U"P+";
+U"Minus" : U"P-";
+U"P" : U"P/";
+U"Semicolon" : U"P*";
+U"Period" : U"P.";
+

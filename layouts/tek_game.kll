@@ -1,0 +1,14 @@
+Name = game_mode;
+Version = 1337;
+Author = "Streetwalrus";
+KLL = 0.3c;
+
+# Modified Date
+Date = 2015-10-06;
+
+U"LShift" : U"Escape";
+U"LCtrl" : U"LShift";
+S0x5B : U"LCtrl";
+U"End" : U"LAlt";
+U"LAlt" : U"LGui";
+

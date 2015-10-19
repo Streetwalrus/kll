@@ -1,0 +1,27 @@
+Name = fn_keys;
+Version = 1337;
+Author = "Streetwalrus";
+KLL = 0.3c;
+
+# Modified Date
+Date = 2015-10-06;
+
+U"F1" : CONS"InternetBrowser";
+U"F2" : CONS"EmailReader";
+U"F3" : CONS"Search";
+U"F4" : CONS"FileBrowser";
+U"F5" : CONS"Calculator";
+U"F6" : U"F13"; # Music
+U"F7" : CONS"ScanPreviousTrack";
+U"F8" : CONS"Play";
+U"F9" : CONS"ScanNextTrack";
+U"F10" : CONS"Mute";
+U"F11" : CONS"VolumeDown";
+U"F12" : CONS"VolumeUp";
+U"Insert" : U"CapsLock";
+U"PrintScreen" : U"NumLock";
+S0x6D : U"ScrollLock"; # Middle logo key
+U"4" : U"Pause";
+U"G" : gameLayer();
+S0x63 : flashMode();
+
