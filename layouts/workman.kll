@@ -1,0 +1,37 @@
+Name = workman;
+Version = 1337;
+Author = "Streetwalrus";
+KLL = 0.3c;
+
+# Modified Date
+Date = 2018-12-14;
+
+U"Q" : U"Q";
+U"W" : U"D";
+U"E" : U"R";
+U"R" : U"W";
+U"T" : U"B";
+U"Y" : U"J";
+U"U" : U"F";
+U"I" : U"U";
+U"O" : U"P";
+U"P" : U"Semicolon";
+
+U"A" : U"A";
+U"S" : U"S";
+U"D" : U"H";
+U"F" : U"T";
+U"G" : U"G";
+U"H" : U"Y";
+U"J" : U"N";
+U"K" : U"E";
+U"L" : U"O";
+U"Semicolon" : U"I";
+
+U"Z" : U"Z";
+U"X" : U"X";
+U"C" : U"M";
+U"V" : U"C";
+U"B" : U"V";
+U"N" : U"K";
+U"M" : U"L";
