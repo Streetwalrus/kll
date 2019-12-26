@@ -6,8 +6,10 @@ KLL = 0.3c;
 # Modified Date
 Date = 2015-10-06;
 
-U"F1" : CONS"InternetBrowser";
-U"F2" : CONS"EmailReader";
+#U"F1" : CONS"InternetBrowser";
+#U"F2" : CONS"EmailReader";
+U"F1" : CONS"BrightnessDecrement";
+U"F2" : CONS"BrightnessIncrement";
 U"F3" : CONS"Search";
 U"F4" : CONS"FileBrowser";
 U"F5" : CONS"Calculator";
